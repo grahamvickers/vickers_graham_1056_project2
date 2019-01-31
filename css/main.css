@@ -23,6 +23,9 @@ p{
 	font-family: 'Eczar', serif;
 }
 
+h2{
+	font-family: 'Cormorant Garamond', serif;
+}
 /* this is the title and header */
 #mainHeader{
 	position: relative;
@@ -115,7 +118,7 @@ img{
 #moreText{
 	position:  absolute;
 	width: 100%;
-	top: 70%;
+	top: 70.5%;
 	font-size: 24px;
 	padding-bottom: 10px;
 	word-spacing: 2px;
@@ -191,4 +194,5 @@ img{
 	text-align: center;
 	justify-content: space-between;
 	margin-bottom: 40px;
+	font-family: 'Cormorant Garamond', serif;
 }
